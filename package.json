@@ -1,0 +1,25 @@
+{
+  "name": "@brynlabs/try-fetch",
+  "version": "1.0.0",
+  "description": "A simple fetch wrapper to do all the necessary checks to handle fetch errors in json apis correctly.",
+  "homepage": "https://github.com/brynlabs/try-fetch#readme",
+  "bugs": {
+    "url": "https://github.com/brynlabs/try-fetch/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brynlabs/try-fetch.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.ts",
+  "types": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.ts",
+    "src/*"
+  ]
+}
