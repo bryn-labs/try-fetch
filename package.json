@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/bryn-labs/try-fetch.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
   "author": "",
   "type": "module",
