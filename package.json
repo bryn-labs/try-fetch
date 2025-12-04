@@ -2,13 +2,13 @@
   "name": "@brynlabs/try-fetch",
   "version": "1.0.0",
   "description": "A simple fetch wrapper to do all the necessary checks to handle fetch errors in json apis correctly.",
-  "homepage": "https://github.com/brynlabs/try-fetch#readme",
+  "homepage": "https://github.com/bryn-labs/try-fetch#readme",
   "bugs": {
-    "url": "https://github.com/brynlabs/try-fetch/issues"
+    "url": "https://github.com/bryn-labs/try-fetch/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brynlabs/try-fetch.git"
+    "url": "git+https://github.com/bryn-labs/try-fetch.git"
   },
   "license": "MIT",
   "author": "",
